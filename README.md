@@ -23,3 +23,33 @@
 <a href="https://magenta-jilli-57.tiiny.site/" download>![](https://img.shields.io/badge/Download-R%C3%A9sum%C3%A9-blue?style=plastic)</a>
 
 ##
+
+### Technologies and Tools:
+
+<div align="center">
+<code><img alt="C++" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c.svg" title="C++"/></code>
+<code><img alt="Java" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/java.svg" title="Java"/></code>
+<code><img alt="JavaScript" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/javascript.svg" title="JavaScript"/></code>
+<code><img alt="TypeScript" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/typescript-icon.svg" title="TypeScript"/></code>
+<code><img alt="Python" height="40px" width="40px" src=" https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" title="Python"/></code>
+<code><img alt="PHP" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/php.svg" title="PHP"/></code>
+<code><img alt="React" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/react.svg" title="React"/></code>
+<code><img alt="HTML5" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" title="HTML5"/></code>
+<code><img alt="CSS3" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/css-3.svg" title="CSS3"/></code>
+<code><img alt="Spring Boot" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/spring.svg" title="Spring Boot"/></code>
+<code><img alt="Hibernate" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/hibernate.svg" title="Hibernate"/></code>
+<code><img alt="REST" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/rest.svg" title="REST"/></code>
+<code><img alt="MySQL" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mysql.svg" title="MySQL"/></code>
+<code><img alt="mongoDB" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mongodb.svg" title="mongoDB"/></code>
+<code><img alt="AWS" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/aws.svg" title="AWS"/></code>
+<code><img alt="Azure" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/azure-icon.svg" title="Azure"/></code>
+<code><img alt="Terraform" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/terraform.svg" title="Terraform"/></code>
+<code><img alt="Tailwind" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/tailwindcss-icon.svg" title="Tailwind CSS"/></code>
+<code><img alt="Node.js" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nodejs-icon.svg" title="Node.js"/></code>
+<code><img alt="Git" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/git-icon.svg" title="Git"/></code>
+<code><img alt="Intellij-Idea" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/intellij-idea.svg" title="Intellij-IDEA"/></code>
+</div>
+<br>
+<div align="center">
+<img  alt="Cyborg's Stats" src="https://github-readme-stats-clone.vercel.app/api?username=hey-shashikant&show_icons=true&bg_color=FFFFFF&title_color=003140&icon_color=003140&text_color=0486AA" title="Stats"/>
+</div>
