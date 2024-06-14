@@ -66,4 +66,9 @@
 [![wakatime](https://wakatime.com/badge/user/fd1cb5ad-3a39-424f-ae29-a37d605bdd14.svg)](https://wakatime.com/@fd1cb5ad-3a39-424f-ae29-a37d605bdd14)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
