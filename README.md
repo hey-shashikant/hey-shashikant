@@ -58,6 +58,7 @@
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 
-[![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
+[![wakatime](https://wakatime.com/badge/user/fd1cb5ad-3a39-424f-ae29-a37d605bdd14.svg)](https://wakatime.com/@fd1cb5ad-3a39-424f-ae29-a37d605bdd14)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
