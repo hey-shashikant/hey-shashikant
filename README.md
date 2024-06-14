@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning React and Django.
 - ⚡ Fun fact: I love to watch sci-fi movies, listening music and read novels.
 
-<!-- Add you portfolio here once you create it -->
 <a href="https://discord.com/channels/1126795091747553320/1126795093966323814" target="_blank"><img alt="discord" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg"/></a>&nbsp;&nbsp;
 <a href="https://medium.com/@shashikantsolanki042" target="_blank"><img alt="Medium" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg"/></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCWilM2GtSN6jySyzEuAt66w" target="_blank"><img alt="youtube" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg"/></a>&nbsp;&nbsp;
@@ -54,7 +53,6 @@
 <img  alt="Cyborg's Stats" src="https://github-readme-stats-clone.vercel.app/api?username=hey-shashikant&show_icons=true&bg_color=FFFFFF&title_color=003140&icon_color=003140&text_color=0486AA" title="Stats"/>
 </div>
 
-<!-- Here update your recent github activity -->
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
