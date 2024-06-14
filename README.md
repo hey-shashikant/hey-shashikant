@@ -58,26 +58,4 @@
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 221.0 kB Used in GitHub's Storage 
- > 
-> 🏆 178 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 7 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                23 commits         ███░░░░░░░░░░░░░░░░░░░░░░  11.73 % 
-🌆 Daytime                62 commits         ██████░░░░░░░░░░░░░░░░░░░   31.63 % 
-🌃 Evening                42 commits         ████░░░░░░░░░░░░░░░░░░░░░   21.43 % 
-🌙 Night                  69 commits         ████████░░░░░░░░░░░░░░░░░   35.20 % 
-```
-
- Last Updated on 14/06/2024 01:27:19 UTC
 <!--END_SECTION:waka-->
