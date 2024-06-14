@@ -31,7 +31,7 @@
 <code><img alt="Java" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/java.svg" title="Java"/></code>
 <code><img alt="JavaScript" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/javascript.svg" title="JavaScript"/></code>
 <code><img alt="TypeScript" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/typescript-icon.svg" title="TypeScript"/></code>
-<code><img alt="Python" height="40px" width="40px" src=" https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" title="Python"/></code>
+<code><img alt="Python" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" title="Python"/></code>
 <code><img alt="PHP" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/php.svg" title="PHP"/></code>
 <code><img alt="React" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/react.svg" title="React"/></code>
 <code><img alt="HTML5" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" title="HTML5"/></code>
