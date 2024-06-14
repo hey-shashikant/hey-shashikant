@@ -56,11 +56,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#162](https://github.com/athul/waka-readme/issues/162) in [athul/waka-readme](https://github.com/athul/waka-readme)
-2. ✔️ Closed issue [#2](https://github.com/hey-shashikant/hey-shashikant/issues/2) in [hey-shashikant/hey-shashikant](https://github.com/hey-shashikant/hey-shashikant)
-3. ✔️ Closed issue [#3](https://github.com/hey-shashikant/hey-shashikant/issues/3) in [hey-shashikant/hey-shashikant](https://github.com/hey-shashikant/hey-shashikant)
-4. ❗️ Opened issue [#162](https://github.com/athul/waka-readme/issues/162) in [athul/waka-readme](https://github.com/athul/waka-readme)
-5. ❗️ Opened issue [#3](https://github.com/hey-shashikant/hey-shashikant/issues/3) in [hey-shashikant/hey-shashikant](https://github.com/hey-shashikant/hey-shashikant)
+1. ❗️ Opened issue [#507](https://github.com/anmol098/waka-readme-stats/issues/507) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+2. 🎉 Merged PR [#4](https://github.com/hey-shashikant/hey-shashikant/pull/4) in [hey-shashikant/hey-shashikant](https://github.com/hey-shashikant/hey-shashikant)
+3. 💪 Opened PR [#4](https://github.com/hey-shashikant/hey-shashikant/pull/4) in [hey-shashikant/hey-shashikant](https://github.com/hey-shashikant/hey-shashikant)
+4. ✔️ Closed issue [#162](https://github.com/athul/waka-readme/issues/162) in [athul/waka-readme](https://github.com/athul/waka-readme)
+5. ✔️ Closed issue [#2](https://github.com/hey-shashikant/hey-shashikant/issues/2) in [hey-shashikant/hey-shashikant](https://github.com/hey-shashikant/hey-shashikant)
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/fd1cb5ad-3a39-424f-ae29-a37d605bdd14.svg)](https://wakatime.com/@fd1cb5ad-3a39-424f-ae29-a37d605bdd14)
