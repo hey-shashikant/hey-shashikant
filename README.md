@@ -53,7 +53,11 @@
 <img  alt="Cyborg's Stats" src="https://github-readme-stats-clone.vercel.app/api?username=hey-shashikant&show_icons=true&bg_color=FFFFFF&title_color=003140&icon_color=003140&text_color=0486AA" title="Stats"/>
 </div>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-shashikant)](https://github.com/hey-shashikant/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/hey-shashikant/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hey-shashikant" />
+  </a>
+</div>
 
 ### ⚡ Recent GitHub Activity
 
