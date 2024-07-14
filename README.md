@@ -62,11 +62,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#8](https://github.com/hey-shashikant/FoodApp/issues/8) in [hey-shashikant/FoodApp](https://github.com/hey-shashikant/FoodApp)
-2. ❗️ Opened issue [#7](https://github.com/hey-shashikant/FoodApp/issues/7) in [hey-shashikant/FoodApp](https://github.com/hey-shashikant/FoodApp)
-3. ❗️ Opened issue [#6](https://github.com/hey-shashikant/FoodApp/issues/6) in [hey-shashikant/FoodApp](https://github.com/hey-shashikant/FoodApp)
-4. ✔️ Closed issue [#2](https://github.com/hey-shashikant/FoodApp/issues/2) in [hey-shashikant/FoodApp](https://github.com/hey-shashikant/FoodApp)
-5. ✔️ Closed issue [#5](https://github.com/hey-shashikant/FoodApp/issues/5) in [hey-shashikant/FoodApp](https://github.com/hey-shashikant/FoodApp)
+1. ⭐ Starred [getredash/redash](https://github.com/getredash/redash)
+2. ❗️ Opened issue [#8](https://github.com/hey-shashikant/FoodApp/issues/8) in [hey-shashikant/FoodApp](https://github.com/hey-shashikant/FoodApp)
+3. ❗️ Opened issue [#7](https://github.com/hey-shashikant/FoodApp/issues/7) in [hey-shashikant/FoodApp](https://github.com/hey-shashikant/FoodApp)
+4. ❗️ Opened issue [#6](https://github.com/hey-shashikant/FoodApp/issues/6) in [hey-shashikant/FoodApp](https://github.com/hey-shashikant/FoodApp)
+5. ✔️ Closed issue [#2](https://github.com/hey-shashikant/FoodApp/issues/2) in [hey-shashikant/FoodApp](https://github.com/hey-shashikant/FoodApp)
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/fd1cb5ad-3a39-424f-ae29-a37d605bdd14.svg)](https://wakatime.com/@fd1cb5ad-3a39-424f-ae29-a37d605bdd14)
